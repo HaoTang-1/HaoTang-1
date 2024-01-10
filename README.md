@@ -1,8 +1,10 @@
-### Hi! This is Hao Tang 👋
+### Hi! I am Hao Tang 👋
 
-This is my [ORCID](https://orcid.org/0009-0002-4948-8900)
+**This is my [ORCID](https://orcid.org/0009-0002-4948-8900).**
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoTang-1)
+
+
 
 <!--
 **HaoTang-1/HaoTang-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
