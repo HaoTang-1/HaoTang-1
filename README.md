@@ -1,9 +1,14 @@
 ### Hi! I am Hao Tang 👋
 
-**This is my [ORCID](https://orcid.org/0009-0002-4948-8900).**
+- 🔭 My Research Expertise includes: Remote sensing, LiDAR, Forests etc.
+
+**Here is my [ORCID](https://orcid.org/0009-0002-4948-8900).**
+
+**Here is my [SciProfiles](https://sciprofiles.com/profile/tangh).**
+
+
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoTang-1)
-
 
 
 <!--
