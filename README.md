@@ -4,7 +4,10 @@
 
 **Here is my [ORCID](https://orcid.org/0009-0002-4948-8900).**
 
+**Here is my [ResearchGate](https://www.researchgate.net/profile/Hao-Tang-117/research).**
+
 **Here is my [SciProfiles](https://sciprofiles.com/profile/tangh).**
+
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoTang-1)
