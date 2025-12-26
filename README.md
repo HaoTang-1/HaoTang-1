@@ -2,7 +2,6 @@
 
 # Hi there, I'm Hao Tang 👋
 
-**Remote Sensing & LiDAR Researcher**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4948--8900-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4948-8900)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hao_Tang-blue?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hao-Tang-117/research)
