@@ -1,4 +1,3 @@
-<!-- START of modern-profile -->
 <div align="center">
 
   <!-- Header with Name and Title -->
@@ -91,14 +90,3 @@
     background-size: 20px 20px;
   }
 </style>
-
-<!-- 
-  ### 🌳 Bonus: The "Forest Code Rain" Effect (Advanced)
-  If you want a truly unique background that reflects your research, you can use this.
-  Note: This is a bit more complex and might not render perfectly in all markdown viewers, 
-  but it looks amazing on the main GitHub profile page.
-  To use it, you would need to create a separate HTML file and link it, but for a pure README,
-  the above is the best balance of beauty and compatibility.
-  For now, the above clean design is highly recommended.
--->
-<!-- END of modern-profile -->
