@@ -90,7 +90,7 @@
 
 <div align="center">
 
-### 💭 Random Forest Quote
+### 💭 Random Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20every%20walk%20with%20nature,%20one%20receives%20far%20more%20than%20he%20seeks&author=John%20Muir" alt="Quote"/>
 
