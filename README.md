@@ -29,18 +29,4 @@ I am a passionate researcher focusing on the intersection of technology and envi
 
 <div align="center">
 
-### 📊 My GitHub Stats
 
-![HaoTang-1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoTang-1&show_icons=true&theme=radical&locale=cn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoTang-1&layout=compact&theme=radical&locale=cn)
-
-</div>
-
----
-
-<div align="center">
-
-*Passionate about uncovering the secrets of our planet from above.* ✨
-
-</div>
